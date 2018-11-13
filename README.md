@@ -1,1 +1,1 @@
-# SortingAlgorithms-C++
+# Sorting Algorithms C++
